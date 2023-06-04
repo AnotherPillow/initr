@@ -1,6 +1,6 @@
 # initr
 
-A program to initialize many languages' projects with a single command.
+A program to make many languages' projects with a single command.
 
 ## Using
 
